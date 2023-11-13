@@ -4,10 +4,10 @@ import (
 	"log"
 	"time"
 
-	socketio "github.com/redtide/pkg/go-socket.io"
+	socketio "github.com/redt1de/go-socket.io"
 )
 
-// github.com\/redtide\/pkg\/go-socket.io
+// github.com\/redt1de\/pkg\/go-socket.io
 // github.com\/googollee\/go-socket.io
 
 // ws://cnc:8000/socket.io/?
